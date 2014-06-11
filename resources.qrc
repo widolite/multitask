@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="close.ico">images/close.ico</file>
+<file alias="open.ico">images/open.ico</file>
+</qresource>
+</RCC>
